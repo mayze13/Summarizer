@@ -1,0 +1,43 @@
+{
+    "Points Clés": {
+        "Intro": "Cette leçon aborde divers aspects de la gestion de soi, de la productivité, de la créativité, des relations interpersonnelles et du développement personnel. Elle met l'accent sur l'importance de la gestion des émotions, des attentes personnelles, de la gestion du stress et de l'anxiété, de la prise de conscience et de l'auto-réflexion, et de la gestion de la distraction et de la procrastination.",
+        "Point 1": "La gestion de l'énergie et de la productivité est essentielle pour maintenir un équilibre entre le travail et la vie personnelle, et pour atteindre les objectifs personnels et professionnels.",
+        "Point 2": "Les attentes irréalistes envers soi-même peuvent conduire à l'auto-critique, au stress et à l'anxiété. Il est important d'apprendre à gérer ces attentes et à se juger de manière réaliste et bienveillante.",
+        "Point 3": "Le processus créatif implique l'expérimentation, l'acceptation de l'échec et la capacité à gérer les distractions internes et externes. Il est crucial de développer des stratégies pour rester concentré et productif.",
+        "Point 4": "La gestion du stress et de l'anxiété est un aspect important de la santé mentale. Il est essentiel d'apprendre des techniques de gestion du stress pour maintenir un équilibre émotionnel et physique.",
+        "Point 5": "La prise de conscience et l'auto-réflexion sont des outils puissants pour le développement personnel. Ils permettent de comprendre ses propres émotions, comportements et réactions, et de développer des stratégies d'adaptation efficaces."
+    },
+    "Objectifs": {
+        "Objectif 1": "Fournir aux apprenants des outils et des stratégies pour gérer efficacement leur énergie et leur productivité.",
+        "Objectif 2": "Aider les apprenants à comprendre et à gérer leurs attentes personnelles et à développer une auto-évaluation réaliste et bienveillante.",
+        "Objectif 3": "Encourager l'expérimentation et la créativité, et fournir des stratégies pour gérer les distractions et rester concentré.",
+        "Objectif 4": "Fournir des techniques de gestion du stress et de l'anxiété pour promouvoir la santé mentale.",
+        "Objectif 5": "Promouvoir la prise de conscience et l'auto-réflexion comme outils de développement personnel."
+    },
+    "Sujets": {
+        "Gestion de l'énergie et de la productivité": {
+            "Gestion du temps": {},
+            "Gestion de l'énergie": {},
+            "Productivité": {}
+        },
+        "Attentes personnelles et auto-évaluation": {
+            "Attentes irréalistes": {},
+            "Auto-critique": {},
+            "Gestion des attentes": {}
+        },
+        "Processus créatif et expérimentation": {
+            "Créativité": {},
+            "Expérimentation": {},
+            "Gestion des distractions": {}
+        },
+        "Gestion du stress et de l'anxiété": {
+            "Techniques de gestion du stress": {},
+            "Gestion de l'anxiété": {}
+        },
+        "Prise de conscience et auto-réflexion": {
+            "Prise de conscience": {},
+            "Auto-réflexion": {},
+            "Développement personnel": {}
+        }
+    }
+}

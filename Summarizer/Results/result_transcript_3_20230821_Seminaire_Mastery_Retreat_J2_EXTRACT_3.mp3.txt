@@ -1,0 +1,43 @@
+{
+    "Points Clés": {
+        "Intro": "La leçon aborde la gestion du temps, la productivité, l'impact de la technologie et de l'environnement sur l'attention, et propose des stratégies pour minimiser les distractions. Elle explore également l'importance de la simplification, de la délégation, de la gestion financière et de l'organisation personnelle et professionnelle.",
+        "Point 1": "La gestion du temps et de la productivité est un thème récurrent, soulignant l'importance de prioriser les tâches, de déléguer et d'éviter la procrastination pour optimiser l'utilisation du temps.",
+        "Point 2": "L'impact de la technologie et de l'environnement sur l'attention est un autre point clé. Les distractions, notamment les notifications et la présence physique du téléphone, peuvent nuire à la concentration et à la productivité.",
+        "Point 3": "La leçon met en avant l'importance de la simplification de la vie quotidienne et des décisions pour gérer efficacement le temps et les ressources cognitives.",
+        "Point 4": "La gestion financière, y compris la gestion des achats, des dépenses et des investissements, est un autre aspect crucial de la leçon.",
+        "Point 5": "Enfin, la leçon souligne l'importance de l'organisation personnelle et professionnelle, y compris la gestion de l'espace de travail, des interruptions et de la famille."
+    },
+    "Objectifs": {
+        "Objectif 1": "Comprendre l'importance de la gestion du temps et de la productivité et apprendre des stratégies pour les optimiser.",
+        "Objectif 2": "Prendre conscience de l'impact de la technologie et de l'environnement sur l'attention et apprendre à minimiser les distractions.",
+        "Objectif 3": "Apprendre à simplifier la vie quotidienne et les décisions pour gérer efficacement le temps et les ressources cognitives.",
+        "Objectif 4": "Acquérir des compétences en gestion financière, y compris la gestion des achats, des dépenses et des investissements.",
+        "Objectif 5": "Comprendre l'importance de l'organisation personnelle et professionnelle et apprendre des stratégies pour l'améliorer."
+    },
+    "Sujets": {
+        "Gestion du temps et de la productivité": {
+            "Priorisation des tâches": {},
+            "Délégation": {},
+            "Procrastination": {}
+        },
+        "Impact de la technologie et de l'environnement sur l'attention": {
+            "Distractions": {
+                "Notifications": {},
+                "Présence physique du téléphone": {}
+            }
+        },
+        "Simplification de la vie quotidienne et des décisions": {
+            "Minimalisme": {},
+            "Gestion des ressources cognitives": {}
+        },
+        "Gestion financière": {
+            "Gestion des achats et des dépenses": {},
+            "Investissements": {}
+        },
+        "Organisation personnelle et professionnelle": {
+            "Gestion de l'espace de travail": {},
+            "Gestion des interruptions": {},
+            "Gestion de la famille": {}
+        }
+    }
+}
